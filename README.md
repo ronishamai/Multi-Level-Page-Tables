@@ -1,4 +1,4 @@
-### Multi-Level Page Tables Simulation
+## Multi-Level Page Tables Simulation
 
 ## Project Overview
 
@@ -39,5 +39,5 @@ gcc -O3 -Wall -std=c11 os.c pt.c -o page_table_sim
 
 Modify the `main()` function in `os.c` to thoroughly test your implementation.
 
-(This assignment is part of the Operating Systems course at Tel Aviv University).
+## (This assignment is part of the Operating Systems course at Tel Aviv University).
 
